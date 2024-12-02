@@ -1,4 +1,9 @@
 version: 0.2
+
+env:
+  variables:
+    ECR_REPOSITORY: 277707140209.dkr.ecr.us-east-1.amazonaws.com/cicdhandson
+
 phases:
   pre_build:
     commands:
