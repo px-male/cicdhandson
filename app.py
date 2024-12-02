@@ -2,5 +2,5 @@
 def lambda_handler(event, context):
 
     return {
-        'Hello': 'Test Lambda'
+        'Hello': 'Test Lambda 2'
     }
