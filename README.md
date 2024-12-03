@@ -1,2 +1,0 @@
-Hello SAM
-# Hello CodeDeploy
