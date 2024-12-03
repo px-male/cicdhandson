@@ -9,6 +9,7 @@ exports.handler = (event, context, callback) => {
   console.log("Entering PostTraffic Hook!");
 
   // Read the DeploymentId and LifecycleEventHookExecutionId from the event payload
+  // this is test program
   var deploymentId = event.DeploymentId;
   var lifecycleEventHookExecutionId = event.LifecycleEventHookExecutionId;
 
